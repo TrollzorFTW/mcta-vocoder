@@ -1,10 +1,8 @@
-import sys
-import os
 import math
 import numpy as np
 import matplotlib.pyplot as plt
 import soundfile as sf
-from scipy.signal import butter,buttord, lfilter, freqz,find_peaks,square
+from scipy.signal import butter,buttord,lfilter,freqz,find_peaks,square
 from scipy.fftpack import fft
 
 
